@@ -1,0 +1,1 @@
+This is the first project of STA 232B taughr by Pro.Jiang and I build linear mixed model to analysis the LAMBs data. The original paper is "Confidence Intervals for a Variance Ratio, or for Heritability, in an Unbalanced Mixed Linear Model. Harville, D. A. and Fenech, A. P. (1985)"
